@@ -1,0 +1,6 @@
+first_name = input('What is your first name?')
+last_name = input('What is your last name?')
+dob = input('What is your date of birth?')
+print(first_name)
+print(last_name)
+print(dob)
